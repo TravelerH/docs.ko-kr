@@ -51,13 +51,13 @@ ms.locfileid: "69608374"
 
 ### <a name="postfix-increment-operator"></a>후위 증가 연산자
 
-`x++`의 결과는 다음 예제와 같이 연산 ‘전’ `x`의 값입니다. 
+`i++`의 결과는 다음 예제와 같이 연산 ‘전’ `i`의 값입니다. 
 
 [!code-csharp-interactive[postfix increment](~/samples/csharp/language-reference/operators/ArithmeticOperators.cs#PostfixIncrement)]
 
-### <a name="prefix-increment-operator"></a>후위 증가 연산자
+### <a name="prefix-increment-operator"></a>전위 증가 연산자
 
-`++x`의 결과는 다음 예제와 같이 연산 ‘후’ `x`의 값입니다. 
+`++a`의 결과는 다음 예제와 같이 연산 ‘후’ `a`의 값입니다. 
 
 [!code-csharp-interactive[prefix increment](~/samples/csharp/language-reference/operators/ArithmeticOperators.cs#PrefixIncrement)]
 
@@ -69,13 +69,13 @@ ms.locfileid: "69608374"
 
 ### <a name="postfix-decrement-operator"></a>후위 감소 연산자
 
-`x--`의 결과는 다음 예제와 같이 연산 ‘전’ `x`의 값입니다. 
+`i--`의 결과는 다음 예제와 같이 연산 ‘전’ `i`의 값입니다. 
 
 [!code-csharp-interactive[postfix decrement](~/samples/csharp/language-reference/operators/ArithmeticOperators.cs#PostfixDecrement)]
 
-### <a name="prefix-decrement-operator"></a>후위 감소 연산자
+### <a name="prefix-decrement-operator"></a>전위 감소 연산자
 
-`--x`의 결과는 다음 예제와 같이 연산 ‘후’ `x`의 값입니다. 
+`--a`의 결과는 다음 예제와 같이 연산 ‘후’ `a`의 값입니다. 
 
 [!code-csharp-interactive[prefix decrement](~/samples/csharp/language-reference/operators/ArithmeticOperators.cs#PrefixDecrement)]
 
